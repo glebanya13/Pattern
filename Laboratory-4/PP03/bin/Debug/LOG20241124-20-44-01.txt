@@ -1,0 +1,7 @@
+start logging: C
+2024-11-24 20:44:01: 060606
+2024-11-24 20:44:01: 070707
+2024-11-24 20:44:01: 080808
+stop logging
+start logging: E
+stop logging

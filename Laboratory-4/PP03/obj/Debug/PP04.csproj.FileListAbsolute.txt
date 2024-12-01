@@ -1,0 +1,10 @@
+D:\Labs\Pattern\Lec03LibN\PP03\obj\Debug\PP04.csproj.AssemblyReference.cache
+D:\Labs\Pattern\Lec03LibN\PP03\obj\Debug\PP04.csproj.CoreCompileInputs.cache
+D:\Labs\Pattern\Lec03LibN\PP03\obj\Debug\PP03.exe
+D:\Labs\Pattern\Lec03LibN\PP03\obj\Debug\PP03.pdb
+D:\Labs\Pattern\Lec03LibN\PP03\bin\Debug\PP03.exe.config
+D:\Labs\Pattern\Lec03LibN\PP03\bin\Debug\PP03.exe
+D:\Labs\Pattern\Lec03LibN\PP03\bin\Debug\PP03.pdb
+D:\Labs\Pattern\Lec03LibN\PP03\bin\Debug\Lec04LibN.dll
+D:\Labs\Pattern\Lec03LibN\PP03\bin\Debug\Lec04LibN.pdb
+D:\Labs\Pattern\Lec03LibN\PP03\obj\Debug\PP04.csproj.Up2Date

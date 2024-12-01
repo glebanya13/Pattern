@@ -1,0 +1,14 @@
+C:\Users\mesic\source\repos\pp\pp-06\pp-06\bin\Debug\pp-06.exe.config
+C:\Users\mesic\source\repos\pp\pp-06\pp-06\bin\Debug\pp-06.exe
+C:\Users\mesic\source\repos\pp\pp-06\pp-06\bin\Debug\pp-06.pdb
+C:\Users\mesic\source\repos\pp\pp-06\pp-06\obj\Debug\pp-06.csproj.AssemblyReference.cache
+C:\Users\mesic\source\repos\pp\pp-06\pp-06\obj\Debug\pp-06.csproj.CoreCompileInputs.cache
+C:\Users\mesic\source\repos\pp\pp-06\pp-06\obj\Debug\pp-06.exe
+C:\Users\mesic\source\repos\pp\pp-06\pp-06\obj\Debug\pp-06.pdb
+C:\Users\gleb2\OneDrive\Рабочий стол\pp-06\pp-06\bin\Debug\pp-06.exe.config
+C:\Users\gleb2\OneDrive\Рабочий стол\pp-06\pp-06\bin\Debug\pp-06.exe
+C:\Users\gleb2\OneDrive\Рабочий стол\pp-06\pp-06\bin\Debug\pp-06.pdb
+C:\Users\gleb2\OneDrive\Рабочий стол\pp-06\pp-06\obj\Debug\pp-06.csproj.AssemblyReference.cache
+C:\Users\gleb2\OneDrive\Рабочий стол\pp-06\pp-06\obj\Debug\pp-06.csproj.CoreCompileInputs.cache
+C:\Users\gleb2\OneDrive\Рабочий стол\pp-06\pp-06\obj\Debug\pp-06.exe
+C:\Users\gleb2\OneDrive\Рабочий стол\pp-06\pp-06\obj\Debug\pp-06.pdb

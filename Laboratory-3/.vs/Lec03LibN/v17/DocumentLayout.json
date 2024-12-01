@@ -1,0 +1,517 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Labs\\Lec03LibN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05A1E3E6-BAFC-4C6B-BE86-267088D24D37}|PP03\\PP03.csproj|d:\\labs\\lec03libn\\pp03\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A1E3E6-BAFC-4C6B-BE86-267088D24D37}|PP03\\PP03.csproj|solutionrelative:pp03\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec03LibN.csproj|D:\\Labs\\Lec03LibN\\lec04libn\\ifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec03LibN.csproj|solutionrelative:lec04libn\\ifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec03LibN.csproj|D:\\Labs\\Lec03LibN\\lec04libn\\lec03blib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec03LibN.csproj|solutionrelative:lec04libn\\lec03blib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec03LibN.csproj|D:\\Labs\\Lec03LibN\\lec04libn\\ibonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec03LibN.csproj|solutionrelative:lec04libn\\ibonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec03LibN.csproj|D:\\Labs\\Lec03LibN\\lec04libn\\bonusc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec03LibN.csproj|solutionrelative:lec04libn\\bonusc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A1E3E6-BAFC-4C6B-BE86-267088D24D37}|PP03\\PP03.csproj|D:\\Labs\\Lec03LibN\\pp03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A1E3E6-BAFC-4C6B-BE86-267088D24D37}|PP03\\PP03.csproj|solutionrelative:pp03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec03LibN.csproj|D:\\Labs\\Lec03LibN\\lec04libn\\bonusb3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec03LibN.csproj|solutionrelative:lec04libn\\bonusb3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec03LibN.csproj|D:\\Labs\\Lec03LibN\\lec04libn\\salary2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec03LibN.csproj|solutionrelative:lec04libn\\salary2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec03LibN.csproj|D:\\Labs\\Lec03LibN\\lec04libn\\bonusb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec03LibN.csproj|solutionrelative:lec04libn\\bonusb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec03LibN.csproj|D:\\Labs\\Lec03LibN\\lec04libn\\bonusa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec03LibN.csproj|solutionrelative:lec04libn\\bonusa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec03LibN.csproj|D:\\Labs\\Lec03LibN\\lec04libn\\salary1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec03LibN.csproj|solutionrelative:lec04libn\\salary1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec03LibN.csproj|D:\\Labs\\Lec03LibN\\lec04libn\\salary3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec03LibN.csproj|solutionrelative:lec04libn\\salary3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec03LibN.csproj|D:\\Labs\\Lec03LibN\\lec04libn\\bonusb2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec03LibN.csproj|solutionrelative:lec04libn\\bonusb2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec03LibN.csproj|D:\\Labs\\Lec03LibN\\lec04libn\\bonusa3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec03LibN.csproj|solutionrelative:lec04libn\\bonusa3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec03LibN.csproj|D:\\Labs\\Lec03LibN\\lec04libn\\bonusa2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec03LibN.csproj|solutionrelative:lec04libn\\bonusa2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec03LibN.csproj|D:\\Labs\\Lec03LibN\\lec04libn\\bonusc3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec03LibN.csproj|solutionrelative:lec04libn\\bonusc3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec04LibN.csproj|D:\\Labs\\Lec03LibN\\lec04libn\\salary1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec04LibN.csproj|solutionrelative:lec04libn\\salary1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec03LibN.csproj|D:\\Labs\\Lec03LibN\\lec04libn\\bonusc2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec03LibN.csproj|solutionrelative:lec04libn\\bonusc2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec04LibN.csproj|D:\\Labs\\Lec03LibN\\lec04libn\\ifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec04LibN.csproj|solutionrelative:lec04libn\\ifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec04LibN.csproj|D:\\Labs\\Lec03LibN\\lec04libn\\salary2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec04LibN.csproj|solutionrelative:lec04libn\\salary2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec04LibN.csproj|D:\\Labs\\Lec03LibN\\lec04libn\\bonusa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec04LibN.csproj|solutionrelative:lec04libn\\bonusa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec04LibN.csproj|D:\\Labs\\Lec03LibN\\lec04libn\\salary3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec04LibN.csproj|solutionrelative:lec04libn\\salary3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec04LibN.csproj|D:\\Labs\\Lec03LibN\\lec04libn\\ibonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec04LibN.csproj|solutionrelative:lec04libn\\ibonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec04LibN.csproj|D:\\Labs\\Lec03LibN\\lec04libn\\bonusc3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec04LibN.csproj|solutionrelative:lec04libn\\bonusc3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec04LibN.csproj|D:\\Labs\\Lec03LibN\\lec04libn\\bonusc2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec04LibN.csproj|solutionrelative:lec04libn\\bonusc2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec04LibN.csproj|D:\\Labs\\Lec03LibN\\lec04libn\\bonusc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec04LibN.csproj|solutionrelative:lec04libn\\bonusc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec04LibN.csproj|D:\\Labs\\Lec03LibN\\lec04libn\\bonusb3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec04LibN.csproj|solutionrelative:lec04libn\\bonusb3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec04LibN.csproj|D:\\Labs\\Lec03LibN\\lec04libn\\bonusb2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec04LibN.csproj|solutionrelative:lec04libn\\bonusb2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec04LibN.csproj|D:\\Labs\\Lec03LibN\\lec04libn\\bonusb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec04LibN.csproj|solutionrelative:lec04libn\\bonusb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec04LibN.csproj|D:\\Labs\\Lec03LibN\\lec04libn\\bonusa3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec04LibN.csproj|solutionrelative:lec04libn\\bonusa3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec04LibN.csproj|D:\\Labs\\Lec03LibN\\lec04libn\\bonusa2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1BF9C8-0C0C-4F08-BDEC-06563904381C}|Lec04LibN\\Lec04LibN.csproj|solutionrelative:lec04libn\\bonusa2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lec03BLib.cs",
+              "DocumentMoniker": "D:\\Labs\\Lec03LibN\\Lec04LibN\\Lec03BLib.cs",
+              "RelativeDocumentMoniker": "Lec04LibN\\Lec03BLib.cs",
+              "ToolTip": "D:\\Labs\\Lec03LibN\\Lec04LibN\\Lec03BLib.cs",
+              "RelativeToolTip": "Lec04LibN\\Lec03BLib.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:42:14.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBonus.cs",
+              "DocumentMoniker": "D:\\Labs\\Lec03LibN\\Lec04LibN\\IBonus.cs",
+              "RelativeDocumentMoniker": "Lec04LibN\\IBonus.cs",
+              "ToolTip": "D:\\Labs\\Lec03LibN\\Lec04LibN\\IBonus.cs",
+              "RelativeToolTip": "Lec04LibN\\IBonus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:45:01.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BonusB2.cs",
+              "DocumentMoniker": "D:\\Labs\\Lec03LibN\\Lec04LibN\\BonusB2.cs",
+              "RelativeDocumentMoniker": "Lec04LibN\\BonusB2.cs",
+              "ToolTip": "D:\\Labs\\Lec03LibN\\Lec04LibN\\BonusB2.cs",
+              "RelativeToolTip": "Lec04LibN\\BonusB2.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:44:55.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BonusA3.cs",
+              "DocumentMoniker": "D:\\Labs\\Lec03LibN\\Lec04LibN\\BonusA3.cs",
+              "RelativeDocumentMoniker": "Lec04LibN\\BonusA3.cs",
+              "ToolTip": "D:\\Labs\\Lec03LibN\\Lec04LibN\\BonusA3.cs",
+              "RelativeToolTip": "Lec04LibN\\BonusA3.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:44:52.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Salary2.cs",
+              "DocumentMoniker": "D:\\Labs\\Lec03LibN\\Lec04LibN\\Salary2.cs",
+              "RelativeDocumentMoniker": "Lec04LibN\\Salary2.cs",
+              "ToolTip": "D:\\Labs\\Lec03LibN\\Lec04LibN\\Salary2.cs",
+              "RelativeToolTip": "Lec04LibN\\Salary2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:46:14.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BonusB3.cs",
+              "DocumentMoniker": "D:\\Labs\\Lec03LibN\\Lec04LibN\\BonusB3.cs",
+              "RelativeDocumentMoniker": "Lec04LibN\\BonusB3.cs",
+              "ToolTip": "D:\\Labs\\Lec03LibN\\Lec04LibN\\BonusB3.cs",
+              "RelativeToolTip": "Lec04LibN\\BonusB3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:44:57.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IFactory.cs",
+              "DocumentMoniker": "D:\\Labs\\Lec03LibN\\Lec04LibN\\IFactory.cs",
+              "RelativeDocumentMoniker": "Lec04LibN\\IFactory.cs",
+              "ToolTip": "D:\\Labs\\Lec03LibN\\Lec04LibN\\IFactory.cs",
+              "RelativeToolTip": "Lec04LibN\\IFactory.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAnwAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:46:22.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Salary3.cs",
+              "DocumentMoniker": "D:\\Labs\\Lec03LibN\\Lec04LibN\\Salary3.cs",
+              "RelativeDocumentMoniker": "Lec04LibN\\Salary3.cs",
+              "ToolTip": "D:\\Labs\\Lec03LibN\\Lec04LibN\\Salary3.cs",
+              "RelativeToolTip": "Lec04LibN\\Salary3.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAxwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:45:06.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BonusC.cs",
+              "DocumentMoniker": "D:\\Labs\\Lec03LibN\\Lec04LibN\\BonusC.cs",
+              "RelativeDocumentMoniker": "Lec04LibN\\BonusC.cs",
+              "ToolTip": "D:\\Labs\\Lec03LibN\\Lec04LibN\\BonusC.cs",
+              "RelativeToolTip": "Lec04LibN\\BonusC.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:44:58.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Labs\\Lec03LibN\\PP03\\Employee.cs",
+              "RelativeDocumentMoniker": "PP03\\Employee.cs",
+              "ToolTip": "D:\\Labs\\Lec03LibN\\PP03\\Employee.cs",
+              "RelativeToolTip": "PP03\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:08:31.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Salary1.cs",
+              "DocumentMoniker": "D:\\Labs\\Lec03LibN\\Lec04LibN\\Salary1.cs",
+              "RelativeDocumentMoniker": "Lec04LibN\\Salary1.cs",
+              "ToolTip": "D:\\Labs\\Lec03LibN\\Lec04LibN\\Salary1.cs",
+              "RelativeToolTip": "Lec04LibN\\Salary1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:46:41.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Labs\\Lec03LibN\\PP03\\Program.cs",
+              "RelativeDocumentMoniker": "PP03\\Program.cs",
+              "ToolTip": "D:\\Labs\\Lec03LibN\\PP03\\Program.cs",
+              "RelativeToolTip": "PP03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:32:56.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BonusB.cs",
+              "DocumentMoniker": "D:\\Labs\\Lec03LibN\\Lec04LibN\\BonusB.cs",
+              "RelativeDocumentMoniker": "Lec04LibN\\BonusB.cs",
+              "ToolTip": "D:\\Labs\\Lec03LibN\\Lec04LibN\\BonusB.cs",
+              "RelativeToolTip": "Lec04LibN\\BonusB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:44:54.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BonusA.cs",
+              "DocumentMoniker": "D:\\Labs\\Lec03LibN\\Lec04LibN\\BonusA.cs",
+              "RelativeDocumentMoniker": "Lec04LibN\\BonusA.cs",
+              "ToolTip": "D:\\Labs\\Lec03LibN\\Lec04LibN\\BonusA.cs",
+              "RelativeToolTip": "Lec04LibN\\BonusA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:10:53.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BonusA2.cs",
+              "DocumentMoniker": "D:\\Labs\\Lec03LibN\\Lec04LibN\\BonusA2.cs",
+              "RelativeDocumentMoniker": "Lec04LibN\\BonusA2.cs",
+              "ToolTip": "D:\\Labs\\Lec03LibN\\Lec04LibN\\BonusA2.cs",
+              "RelativeToolTip": "Lec04LibN\\BonusA2.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:44:39.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BonusC3.cs",
+              "DocumentMoniker": "D:\\Labs\\Lec03LibN\\Lec04LibN\\BonusC3.cs",
+              "RelativeDocumentMoniker": "Lec04LibN\\BonusC3.cs",
+              "ToolTip": "D:\\Labs\\Lec03LibN\\Lec04LibN\\BonusC3.cs",
+              "RelativeToolTip": "Lec04LibN\\BonusC3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:44:59.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Salary1.cs",
+              "DocumentMoniker": "D:\\Labs\\Lec03LibN\\Lec04LibN\\Salary1.cs",
+              "RelativeDocumentMoniker": "Lec04LibN\\Salary1.cs",
+              "ToolTip": "D:\\Labs\\Lec03LibN\\Lec04LibN\\Salary1.cs",
+              "RelativeToolTip": "Lec04LibN\\Salary1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:01:22.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BonusC2.cs",
+              "DocumentMoniker": "D:\\Labs\\Lec03LibN\\Lec04LibN\\BonusC2.cs",
+              "RelativeDocumentMoniker": "Lec04LibN\\BonusC2.cs",
+              "ToolTip": "D:\\Labs\\Lec03LibN\\Lec04LibN\\BonusC2.cs",
+              "RelativeToolTip": "Lec04LibN\\BonusC2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:44:58.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IFactory.cs",
+              "DocumentMoniker": "D:\\Labs\\Lec03LibN\\Lec04LibN\\IFactory.cs",
+              "RelativeDocumentMoniker": "Lec04LibN\\IFactory.cs",
+              "ToolTip": "D:\\Labs\\Lec03LibN\\Lec04LibN\\IFactory.cs",
+              "RelativeToolTip": "Lec04LibN\\IFactory.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAnwA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:01:28.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Salary2.cs",
+              "DocumentMoniker": "D:\\Labs\\Lec03LibN\\Lec04LibN\\Salary2.cs",
+              "RelativeDocumentMoniker": "Lec04LibN\\Salary2.cs",
+              "ToolTip": "D:\\Labs\\Lec03LibN\\Lec04LibN\\Salary2.cs",
+              "RelativeToolTip": "Lec04LibN\\Salary2.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:00:59.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Salary3.cs",
+              "DocumentMoniker": "D:\\Labs\\Lec03LibN\\Lec04LibN\\Salary3.cs",
+              "RelativeDocumentMoniker": "Lec04LibN\\Salary3.cs",
+              "ToolTip": "D:\\Labs\\Lec03LibN\\Lec04LibN\\Salary3.cs",
+              "RelativeToolTip": "Lec04LibN\\Salary3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:01:01.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BonusA.cs",
+              "DocumentMoniker": "D:\\Labs\\Lec03LibN\\Lec04LibN\\BonusA.cs",
+              "RelativeDocumentMoniker": "Lec04LibN\\BonusA.cs",
+              "ToolTip": "D:\\Labs\\Lec03LibN\\Lec04LibN\\BonusA.cs",
+              "RelativeToolTip": "Lec04LibN\\BonusA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:02:03.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IBonus.cs",
+              "DocumentMoniker": "D:\\Labs\\Lec03LibN\\Lec04LibN\\IBonus.cs",
+              "RelativeDocumentMoniker": "Lec04LibN\\IBonus.cs",
+              "ToolTip": "D:\\Labs\\Lec03LibN\\Lec04LibN\\IBonus.cs",
+              "RelativeToolTip": "Lec04LibN\\IBonus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:01:31.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BonusC3.cs",
+              "DocumentMoniker": "D:\\Labs\\Lec03LibN\\Lec04LibN\\BonusC3.cs",
+              "RelativeDocumentMoniker": "Lec04LibN\\BonusC3.cs",
+              "ToolTip": "D:\\Labs\\Lec03LibN\\Lec04LibN\\BonusC3.cs",
+              "RelativeToolTip": "Lec04LibN\\BonusC3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:01:40.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BonusC2.cs",
+              "DocumentMoniker": "D:\\Labs\\Lec03LibN\\Lec04LibN\\BonusC2.cs",
+              "RelativeDocumentMoniker": "Lec04LibN\\BonusC2.cs",
+              "ToolTip": "D:\\Labs\\Lec03LibN\\Lec04LibN\\BonusC2.cs",
+              "RelativeToolTip": "Lec04LibN\\BonusC2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:01:44.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BonusC.cs",
+              "DocumentMoniker": "D:\\Labs\\Lec03LibN\\Lec04LibN\\BonusC.cs",
+              "RelativeDocumentMoniker": "Lec04LibN\\BonusC.cs",
+              "ToolTip": "D:\\Labs\\Lec03LibN\\Lec04LibN\\BonusC.cs",
+              "RelativeToolTip": "Lec04LibN\\BonusC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:01:47.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BonusB3.cs",
+              "DocumentMoniker": "D:\\Labs\\Lec03LibN\\Lec04LibN\\BonusB3.cs",
+              "RelativeDocumentMoniker": "Lec04LibN\\BonusB3.cs",
+              "ToolTip": "D:\\Labs\\Lec03LibN\\Lec04LibN\\BonusB3.cs",
+              "RelativeToolTip": "Lec04LibN\\BonusB3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:01:50.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BonusB2.cs",
+              "DocumentMoniker": "D:\\Labs\\Lec03LibN\\Lec04LibN\\BonusB2.cs",
+              "RelativeDocumentMoniker": "Lec04LibN\\BonusB2.cs",
+              "ToolTip": "D:\\Labs\\Lec03LibN\\Lec04LibN\\BonusB2.cs",
+              "RelativeToolTip": "Lec04LibN\\BonusB2.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:01:52.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BonusB.cs",
+              "DocumentMoniker": "D:\\Labs\\Lec03LibN\\Lec04LibN\\BonusB.cs",
+              "RelativeDocumentMoniker": "Lec04LibN\\BonusB.cs",
+              "ToolTip": "D:\\Labs\\Lec03LibN\\Lec04LibN\\BonusB.cs",
+              "RelativeToolTip": "Lec04LibN\\BonusB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:01:55.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BonusA3.cs",
+              "DocumentMoniker": "D:\\Labs\\Lec03LibN\\Lec04LibN\\BonusA3.cs",
+              "RelativeDocumentMoniker": "Lec04LibN\\BonusA3.cs",
+              "ToolTip": "D:\\Labs\\Lec03LibN\\Lec04LibN\\BonusA3.cs",
+              "RelativeToolTip": "Lec04LibN\\BonusA3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:01:57.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BonusA2.cs",
+              "DocumentMoniker": "D:\\Labs\\Lec03LibN\\Lec04LibN\\BonusA2.cs",
+              "RelativeDocumentMoniker": "Lec04LibN\\BonusA2.cs",
+              "ToolTip": "D:\\Labs\\Lec03LibN\\Lec04LibN\\BonusA2.cs",
+              "RelativeToolTip": "Lec04LibN\\BonusA2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:02:00.936Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

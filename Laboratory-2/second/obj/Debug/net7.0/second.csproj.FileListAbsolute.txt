@@ -1,0 +1,14 @@
+D:\Labs\Pattern\Laboratory-2\second\bin\Debug\net7.0\second.exe
+D:\Labs\Pattern\Laboratory-2\second\bin\Debug\net7.0\second.deps.json
+D:\Labs\Pattern\Laboratory-2\second\bin\Debug\net7.0\second.runtimeconfig.json
+D:\Labs\Pattern\Laboratory-2\second\bin\Debug\net7.0\second.dll
+D:\Labs\Pattern\Laboratory-2\second\bin\Debug\net7.0\second.pdb
+D:\Labs\Pattern\Laboratory-2\second\obj\Debug\net7.0\second.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\Pattern\Laboratory-2\second\obj\Debug\net7.0\second.AssemblyInfoInputs.cache
+D:\Labs\Pattern\Laboratory-2\second\obj\Debug\net7.0\second.AssemblyInfo.cs
+D:\Labs\Pattern\Laboratory-2\second\obj\Debug\net7.0\second.csproj.CoreCompileInputs.cache
+D:\Labs\Pattern\Laboratory-2\second\obj\Debug\net7.0\second.dll
+D:\Labs\Pattern\Laboratory-2\second\obj\Debug\net7.0\refint\second.dll
+D:\Labs\Pattern\Laboratory-2\second\obj\Debug\net7.0\second.pdb
+D:\Labs\Pattern\Laboratory-2\second\obj\Debug\net7.0\second.genruntimeconfig.cache
+D:\Labs\Pattern\Laboratory-2\second\obj\Debug\net7.0\ref\second.dll

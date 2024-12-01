@@ -1,0 +1,12 @@
+D:\Labs\Lec03LibN\Lec04LibN\obj\Debug\Lec04LibN.csproj.AssemblyReference.cache
+D:\Labs\Lec03LibN\Lec04LibN\obj\Debug\Lec04LibN.csproj.CoreCompileInputs.cache
+D:\Labs\Lec03LibN\Lec04LibN\bin\Debug\Lec04LibN.dll
+D:\Labs\Lec03LibN\Lec04LibN\bin\Debug\Lec04LibN.pdb
+D:\Labs\Lec03LibN\Lec04LibN\obj\Debug\Lec04LibN.dll
+D:\Labs\Lec03LibN\Lec04LibN\obj\Debug\Lec04LibN.pdb
+D:\Labs\Pattern\Lec03LibN\Lec04LibN\obj\Debug\Lec04LibN.csproj.AssemblyReference.cache
+D:\Labs\Pattern\Lec03LibN\Lec04LibN\obj\Debug\Lec04LibN.csproj.CoreCompileInputs.cache
+D:\Labs\Pattern\Lec03LibN\Lec04LibN\obj\Debug\Lec04LibN.dll
+D:\Labs\Pattern\Lec03LibN\Lec04LibN\obj\Debug\Lec04LibN.pdb
+D:\Labs\Pattern\Lec03LibN\Lec04LibN\bin\Debug\Lec04LibN.dll
+D:\Labs\Pattern\Lec03LibN\Lec04LibN\bin\Debug\Lec04LibN.pdb

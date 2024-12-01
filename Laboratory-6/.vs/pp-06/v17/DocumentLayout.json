@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Labs\\Pattern\\Laboratory-6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D69778C-E75B-41F5-A454-F3FE349522EA}|pp-06\\pp-06.csproj|d:\\labs\\pattern\\laboratory-6\\pp-06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D69778C-E75B-41F5-A454-F3FE349522EA}|pp-06\\pp-06.csproj|solutionrelative:pp-06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D69778C-E75B-41F5-A454-F3FE349522EA}|pp-06\\pp-06.csproj|D:\\Labs\\Pattern\\Laboratory-6\\pp-06\\ISubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D69778C-E75B-41F5-A454-F3FE349522EA}|pp-06\\pp-06.csproj|solutionrelative:pp-06\\ISubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D69778C-E75B-41F5-A454-F3FE349522EA}|pp-06\\pp-06.csproj|D:\\Labs\\Pattern\\Laboratory-6\\pp-06\\Publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D69778C-E75B-41F5-A454-F3FE349522EA}|pp-06\\pp-06.csproj|solutionrelative:pp-06\\Publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 233,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "D:\\Labs\\Pattern\\Laboratory-6\\pp-06\\Publisher.cs",
+              "RelativeDocumentMoniker": "pp-06\\Publisher.cs",
+              "ToolTip": "D:\\Labs\\Pattern\\Laboratory-6\\pp-06\\Publisher.cs",
+              "RelativeToolTip": "pp-06\\Publisher.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:18:42.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISubscriber.cs",
+              "DocumentMoniker": "D:\\Labs\\Pattern\\Laboratory-6\\pp-06\\ISubscriber.cs",
+              "RelativeDocumentMoniker": "pp-06\\ISubscriber.cs",
+              "ToolTip": "D:\\Labs\\Pattern\\Laboratory-6\\pp-06\\ISubscriber.cs",
+              "RelativeToolTip": "pp-06\\ISubscriber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:18:20.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Labs\\Pattern\\Laboratory-6\\pp-06\\Program.cs",
+              "RelativeDocumentMoniker": "pp-06\\Program.cs",
+              "ToolTip": "D:\\Labs\\Pattern\\Laboratory-6\\pp-06\\Program.cs",
+              "RelativeToolTip": "pp-06\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:17:28.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
